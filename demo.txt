@@ -1,1 +1,4 @@
 TINKU.HYDERBABD
+Ajay
+git remote add origin https://github.com/AJAYBABU77/proj1.git
+git push -u origin main
